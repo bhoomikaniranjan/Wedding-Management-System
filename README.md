@@ -80,7 +80,7 @@ Welcome to the **Wedding Management System**! This project provides an all-in-on
 ![Event Page](outputs/events_page.png)  
 
 ### Gallery  
-![Gallery](outputs/gallery_page.png)  
+![Gallery](outputs/Gallery_page.png)  
 
 ### Services and Packages  
 ![Services and Packages](outputs/services_and_packages.png)  
